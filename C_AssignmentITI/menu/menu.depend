@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1729699912 source:c:\users\alaas\downloads\assignment\menu\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+

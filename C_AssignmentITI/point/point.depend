@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729428177 source:c:\users\alaas\downloads\assignment\point\main.c
+	<stdio.h>
+	<stdlib.h>
+

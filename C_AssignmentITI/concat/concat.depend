@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729296226 source:c:\users\alaas\downloads\assignment\concat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
