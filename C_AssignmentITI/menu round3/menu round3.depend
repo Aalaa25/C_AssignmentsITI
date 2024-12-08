@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1729703071 source:c:\users\alaas\downloads\assignment\menu round3\main.c
-	<windows.h>
-	<stdlib.h>
-	<string.h>
-	<conio.h>
-
